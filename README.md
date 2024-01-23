@@ -1,1 +1,1 @@
-# double click on file to open
+# each file is a clicker game move it t a folder
